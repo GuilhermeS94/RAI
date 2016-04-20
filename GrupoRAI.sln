@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrupoRAI", "GrupoRAI\GrupoRAI.csproj", "{9BE4D0CA-17A4-4425-9BF7-1D862237CF32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo", "Modelo\Modelo.csproj", "{FBEB6620-41AD-4978-8562-9659D839050D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controle", "Controle\Controle.csproj", "{E96A4B1F-02EF-43B4-A93E-63CDF9716850}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BE4D0CA-17A4-4425-9BF7-1D862237CF32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BE4D0CA-17A4-4425-9BF7-1D862237CF32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BE4D0CA-17A4-4425-9BF7-1D862237CF32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BE4D0CA-17A4-4425-9BF7-1D862237CF32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBEB6620-41AD-4978-8562-9659D839050D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBEB6620-41AD-4978-8562-9659D839050D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBEB6620-41AD-4978-8562-9659D839050D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBEB6620-41AD-4978-8562-9659D839050D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E96A4B1F-02EF-43B4-A93E-63CDF9716850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E96A4B1F-02EF-43B4-A93E-63CDF9716850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E96A4B1F-02EF-43B4-A93E-63CDF9716850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E96A4B1F-02EF-43B4-A93E-63CDF9716850}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
